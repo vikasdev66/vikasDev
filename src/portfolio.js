@@ -325,37 +325,37 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://roshanstack.hashnode.dev/top-7-aws-services-for-developers",
+      url: "https://Vikasstack.hashnode.dev/top-7-aws-services-for-developers",
       title: "Top 7 AWS Services for Developers",
       description:
         "Amazon Web Services (AWS) stands out with its extensive range of services tailored to empower developers. In this article, we will delve into the top 7 AWS services that software developers should become familiar with"
     },
     {
-      url: "https://roshanstack.hashnode.dev/writing-shorter-optimize-code-in-javascript",
+      url: "https://Vikasstack.hashnode.dev/writing-shorter-optimize-code-in-javascript",
       title: "Writing Shorter & Optimize Code in JavaScript",
       description:
         "Writing concise and efficient code is crucial for improving readability, performance, and maintainability. One way to achieve this is by leveraging shorthand expressions, which allow you to write shorter code while maintaining clarity and efficiency."
     },
     {
-      url: "https://roshanstack.hashnode.dev/how-to-dockerize-a-reactjs-application-a-step-by-step-guide",
+      url: "https://Vikasstack.hashnode.dev/how-to-dockerize-a-reactjs-application-a-step-by-step-guide",
       title: "How to Dockerize a React.js Application: A Step-by-Step Guide",
       description:
         "Docker has become a popular choice for containerizing applications, and it can greatly simplify the deployment and distribution process. If you have a React.js application and want to containerize it using Docker, this step-by-step guide will walk you through the process."
     },
     {
-      url: "https://roshanstack.hashnode.dev/mastering-javascript-write-code-like-senior-developers",
+      url: "https://Vikasstack.hashnode.dev/mastering-javascript-write-code-like-senior-developers",
       title: "Mastering JavaScript: Write Code Like Senior Developers",
       description:
         "As a senior JavaScript developer, it is essential to not only write code that functions correctly but also to ensure that it is maintainable, efficient, and secure. By following best practices and adhering to established code conventions, you can enhance code readability, reduce errors, and optimize performance."
     },
     {
-      url: "https://roshanstack.hashnode.dev/dockerizing-rest-api-using-nodejs",
+      url: "https://Vikasstack.hashnode.dev/dockerizing-rest-api-using-nodejs",
       title: "Dockerizing REST API using NodeJS",
       description:
         "Docker has revolutionized the way we develop, deploy, and manage applications. It provides a lightweight and portable containerization platform that simplifies the process of packaging and running applications in isolated environments."
     },
     {
-      url: "https://roshanstack.hashnode.dev/securing-web-applications-best-practices",
+      url: "https://Vikasstack.hashnode.dev/securing-web-applications-best-practices",
       title: "Securing Web Applications : Best Practices",
       description:
         "Web applications have become an integral part of our lives, offering convenience and accessibility. However, the increasing dependence on web applications has also led to a rise in online attacks targeting their vulnerabilities."
