@@ -184,7 +184,7 @@ const workExperiences = {
         "Worked on the optimization of customer facing live websites.",
         "Have contributed in internal component libraries, by creating responsive reusable components."
       ]
-    },
+    }
     // {
     //   role: "Sr. Software Engineer",
     //   company: "DePronto Infotech",
@@ -217,6 +217,19 @@ const bigProjects = {
   subtitle: "",
   projects: [
     {
+      image: require("./assets/images/react-interview-project-image.png"),
+      projectName: "React Interview Projects",
+      projectDesc:
+        "Explore a React web application I developed to practice interview coding rounds. The project consolidates all UI logic-based tasks, each designed to be completed in 30 to 40 minutes. All projects are easily accessible from the navbar.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://react-interview-projects-taupe.vercel.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/invoiceImg.png"),
       projectName: "Invoice Generator",
       projectDesc:
@@ -232,7 +245,8 @@ const bigProjects = {
     {
       image: require("./assets/images/chat.png"),
       projectName: "Web Chat Application",
-      projectDesc: "A web chat application made using ReactJs is a real-time communication platform that allows users to exchange messages over the internet.",
+      projectDesc:
+        "A web chat application made using ReactJs is a real-time communication platform that allows users to exchange messages over the internet.",
       footerLink: [
         {
           name: "Visit Website",
@@ -251,7 +265,7 @@ const bigProjects = {
           url: "https://weather-report-react.netlify.app/"
         }
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
