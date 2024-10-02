@@ -23,7 +23,7 @@ const greeting = {
   username: "VikasDev",
   title: "Hey, I'm Vikas",
   subTitle: emoji(
-    "A passionate Frontend Developer 🚀 having an experience of building Web Applications with ReactJS / JavaScript / NextJS / and some other cool libraries and frameworks."
+    "A passionate Frontend Developer 🚀 having an experience of building Web Applications with ReactJS / TypeScript / and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1n-1vQP_vxfacg2_7xIdMoOkb0M_5RhCd/view?usp=drive_link", // Set to empty to hide the button
@@ -176,13 +176,24 @@ const workExperiences = {
   experience: [
     {
       role: "Frontend Developer",
-      company: "Analytic Edge Pvt Ltd",
+      company: "Analytic Edge Pvt. Ltd.",
       companylogo: require("./assets/images/analyticEdge.png"),
       date: "July 2022 – November 2023",
       descBullets: [
         "Developed 2 Operational websites for oraganizations showcasing their business and capturing leads.",
         "Worked on the optimization of customer facing live websites.",
         "Have contributed in internal component libraries, by creating responsive reusable components."
+      ]
+    },
+    {
+      role: "Frontend Developer",
+      company: "ANALYZE INFOTECH",
+      companylogo: require("./assets/images/analyze-infotech.png"),
+      date: "August 2021 – July 2022",
+      descBullets: [
+        "Built dynamic, interactive UIs using React and TypeScript.",
+        "Developed responsive, reusable components for internal libraries.",
+        "Collaborated with backend teams to integrate RESTful APIs for seamless user experiences."
       ]
     }
     // {
