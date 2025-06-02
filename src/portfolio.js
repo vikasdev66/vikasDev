@@ -175,6 +175,17 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Web Developer",
+      company: "uCertify",
+      companylogo: require("./assets/images/ucertify.png"),
+      date: " February 2025 –  Present",
+      descBullets: [
+        "Developed responsive and interactive UI for an EdTech platform using modern JavaScript frameworks and design best practices.",
+        "Integrated RESTful APIs and Large Language Models (LLMs) to deliver dynamic, AI-powered tutoring experiences.",
+        "Engineered effective prompts to optimize LLM performance for personalized education, content explanation, and context aware assistance."
+      ]
+    },
+    {
       role: "Frontend Developer",
       company: "Analytic Edge Pvt. Ltd.",
       companylogo: require("./assets/images/analyticEdge.png"),
